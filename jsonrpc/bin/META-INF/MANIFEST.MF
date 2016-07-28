@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: JsonRpc Android Tcp
+Implementation-Version: 1.1.2
+
